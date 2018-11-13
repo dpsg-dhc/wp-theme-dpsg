@@ -6,7 +6,7 @@
 		<footer class="site-footer">
 			<section class="top-footer">
 				<div class="container">
-					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/tent.png" alt="" class="footer-image" />
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo_bezirk.png" alt="" class="footer-image" />
 				
 					
 
