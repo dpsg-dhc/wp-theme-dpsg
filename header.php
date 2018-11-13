@@ -24,7 +24,7 @@
 					<div class="row">
 						<div class="col-xs-6 col-lg-4">
 							<h1 id="logo">
-								<a href="<?php echo get_home_url(null, '/'); ?>" title="<?php dpsg_sitename(); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo.png" alt="blog.dpsg.de" /></a>
+								<a href="<?php echo get_home_url(null, '/'); ?>" title="<?php dpsg_sitename(); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo.png" alt="blog.dpsg.de" class="img-responsive"/></a>
 							</h1><!-- /#logo -->
 						</div><!-- /.col-xs-12 -->
 
